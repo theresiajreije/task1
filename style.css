@@ -25,7 +25,7 @@ img {
 
 .navbar {
   min-height: 82px;
-  background-color: #ffffff;
+  background-color: #000000;
   display: flex;
   align-items: center;
 }
@@ -100,7 +100,7 @@ img {
 
 .services-section {
   padding: 34px 20px 60px;
-  background-color: #f3f3f3;
+  background-color: #f0f0f0;
   text-align: center;
 }
 
@@ -206,7 +206,7 @@ img {
 }
 
 .footer-section {
-  background: #f3f3f3;
+  background:#f0f0f0;
   padding: 30px 220px;
   text-align: center;
 }
